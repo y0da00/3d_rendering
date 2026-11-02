@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o+dpedwiLhI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dartvader\\Documents\\projects\\c#\\3d_rendering\\3d_rendering.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dartvader\\.nuget\\packages\\raylib-cs\\8.1.0\\raylib-cs.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
